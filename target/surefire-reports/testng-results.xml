@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-25T22:40:42 IST" name="Suite" finished-at="2024-12-25T22:41:27 IST" duration-ms="44960">
+    <groups>
+    </groups>
+    <test started-at="2024-12-25T22:40:42 IST" name="Test" finished-at="2024-12-25T22:41:27 IST" duration-ms="44960">
+      <class name="com.testCases.TC_RequestQuatation">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testCases.TC_RequestQuatation@729d991e]" started-at="2024-12-25T22:40:58 IST" name="setUp" finished-at="2024-12-25T22:41:04 IST" duration-ms="6420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRequestQuatation()[pri:0, instance:com.testCases.TC_RequestQuatation@729d991e]" started-at="2024-12-25T22:41:04 IST" name="testRequestQuatation" finished-at="2024-12-25T22:41:14 IST" duration-ms="9568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRequestQuatation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.TC_RequestQuatation@729d991e]" started-at="2024-12-25T22:41:14 IST" name="tearDown" finished-at="2024-12-25T22:41:14 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.TC_RequestQuatation -->
+      <class name="com.testCases.TC_Login">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testCases.TC_Login@17497425]" started-at="2024-12-25T22:40:42 IST" name="setUp" finished-at="2024-12-25T22:40:53 IST" duration-ms="10899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:com.testCases.TC_Login@17497425]" started-at="2024-12-25T22:40:53 IST" name="testLogin" finished-at="2024-12-25T22:40:57 IST" duration-ms="4699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.TC_Login@17497425]" started-at="2024-12-25T22:40:57 IST" name="tearDown" finished-at="2024-12-25T22:40:58 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.TC_Login -->
+      <class name="com.testCases.TC_RetreiveQuatation">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testCases.TC_RetreiveQuatation@31fa1761]" started-at="2024-12-25T22:41:14 IST" name="setUp" finished-at="2024-12-25T22:41:19 IST" duration-ms="4961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRetreiveQuatation()[pri:0, instance:com.testCases.TC_RetreiveQuatation@31fa1761]" started-at="2024-12-25T22:41:19 IST" name="testRetreiveQuatation" finished-at="2024-12-25T22:41:26 IST" duration-ms="6847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRetreiveQuatation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testCases.TC_RetreiveQuatation@31fa1761]" started-at="2024-12-25T22:41:26 IST" name="tearDown" finished-at="2024-12-25T22:41:27 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.TC_RetreiveQuatation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

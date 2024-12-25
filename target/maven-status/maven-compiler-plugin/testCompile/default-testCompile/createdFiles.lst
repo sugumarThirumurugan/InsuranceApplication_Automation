@@ -1,0 +1,8 @@
+com\pageObjects\RetreiveQuatation.class
+com\pageObjects\LoginPage.class
+com\testCases\BaseClass.class
+com\pageObjects\RequestQuatation.class
+com\testCases\TC_Login.class
+com\utilities\ReadConfig.class
+com\testCases\TC_RetreiveQuatation.class
+com\testCases\TC_RequestQuatation.class
