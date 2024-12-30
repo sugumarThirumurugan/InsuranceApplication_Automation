@@ -38,7 +38,7 @@ public class RetreiveQuatation {
 	
 	public void tookScreenShot()throws Exception {
 		File source = table.getScreenshotAs(OutputType.FILE);
-		File destination =new File("E:\\New folder\\WebApplication_Automation\\ScreenShots\\QuatationDetails.jpg");
+		File destination =new File("E:\\New folder\\InsuranceApplication_Automation\\ScreenShots\\QuatationDetails.jpg");
 		FileUtils.copyFile(source, destination);	
 	}
 	
